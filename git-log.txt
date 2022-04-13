@@ -1,1 +1,2 @@
 Print("welcome to edureka")
+Print("Dont just simply learn it master")
